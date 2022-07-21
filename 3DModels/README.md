@@ -55,6 +55,7 @@ Quantity | Item | Link
 2 | 6808 Bearing | https://fr.aliexpress.com/item/1005003528637404.html?gatewayAdapt=glo2fra&spm=a2g0o.9042311.0.0.27426c375Ho3wr
 1 | 16mm wide HTD 5M 12T pulley 6.35mm | https://fr.aliexpress.com/item/32919310302.html?gatewayAdapt=glo2fra&spm=a2g0o.9042311.0.0.27426c375Ho3wr
 1 | Nema 23 Stepper motor 2.8A | https://www.amazon.fr/gp/product/B00PNEPI0A/ref=ppx_yo_dt_b_asin_title_o01_s00?ie=UTF8&psc=1
+1 | HTD 260-5M-15 Belt | https://fr.aliexpress.com/item/32919207375.html?spm=a2g0o.order_list.0.0.a2d65e5bfgOft8&gatewayAdapt=glo2fra
 
 Print settings:
 ```
